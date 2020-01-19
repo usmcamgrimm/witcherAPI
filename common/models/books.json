@@ -30,6 +30,10 @@
     "pages": {
       "type": "number",
       "required": true
+    },
+    "pictures": {
+      "type": "string",
+      "required": true
     }
   },
   "validations": [],
